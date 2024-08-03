@@ -1,0 +1,1 @@
+Este proyecto se basó en dos secciones del curso de React desde cero. Específicamente, las secciones 16 y 17. La sección 16 profundiza en los detalles de las rutas en React, mientras que la sección 17 se centra en las optimizaciones de React Routes.
